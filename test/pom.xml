@@ -2,24 +2,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.hand</groupId>
-<<<<<<< HEAD
-  <artifactId>git_test234</artifactId>
+  <artifactId>test</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>git_test234</name>
-=======
-<<<<<<< HEAD
-  <artifactId>git_wangruizhan234</artifactId>
-  <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
-  <name>git_wangruizhan234</name>
-=======
-  <artifactId>git_trainging</artifactId>
-  <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
-  <name>git_trainging</name>
->>>>>>> 14de22fcfedcef7d185b40ffe5eaec3b5c74207a
->>>>>>> 1d6f8e5ec9c0314761b43c645298e1da31a060c6
+  <name>test</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
