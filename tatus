@@ -1,0 +1,173 @@
+[33mcommit f2fefbda497ad3e47f7a17829cb67f87656dcbdb[m
+Merge: a379ab9 c6cc50e
+Author: zhengzehao <191720653@qq.com>
+Date:   Fri Aug 7 17:26:04 2015 +0800
+
+    Merge branch 'master' of https://github.com/hailor/TestGit
+
+[33mcommit a379ab93358f46853a4d5bdb926d63f8105b4ba1[m
+Author: zhengzehao <191720653@qq.com>
+Date:   Fri Aug 7 17:25:04 2015 +0800
+
+    add test
+
+[33mcommit c6cc50e12e2285b968d84d0c8808d338d2ef7212[m
+Author: sunyushu <592638625@qq.com>
+Date:   Fri Aug 7 17:11:42 2015 +0800
+
+    test
+
+[33mcommit d7e53f1dc6736d039a27a269ebb3e784dec9ce9d[m
+Merge: 929083d 040bd01
+Author: wangruizhan <1045233053qq.com>
+Date:   Fri Aug 7 14:19:04 2015 +0800
+
+    添加文件
+
+[33mcommit 929083d58937a560f88bdd142438b8ffa0eb3b9d[m
+Author: wangruizhan <1045233053qq.com>
+Date:   Fri Aug 7 14:12:59 2015 +0800
+
+    添加文件
+
+[33mcommit 040bd0147a1617b83898970f7b6e4902af3c1002[m
+Author: huangziliang <289043018@qq.com>
+Date:   Fri Aug 7 13:59:15 2015 +0800
+
+    Create huangziliang
+
+[33mcommit 0c203fda7aeb0ae9aa984a4e85675601a614a210[m
+Merge: 264ef04 1d6f8e5
+Author: wangruizhan <1045233053qq.com>
+Date:   Fri Aug 7 13:56:16 2015 +0800
+
+    aaa
+
+[33mcommit 264ef04340531a14ceba624f3ddb9471baa062ec[m
+Author: wangruizhan <1045233053qq.com>
+Date:   Fri Aug 7 13:51:06 2015 +0800
+
+    add project
+
+[33mcommit 1d6f8e5ec9c0314761b43c645298e1da31a060c6[m
+Merge: 25802ca 14de22f
+Author: wangruizhan <1045233053qq.com>
+Date:   Fri Aug 7 13:31:56 2015 +0800
+
+    init project
+
+[33mcommit 25802ca11df686d79844ccff92bc4e411c58b276[m
+Author: wangruizhan <1045233053qq.com>
+Date:   Fri Aug 7 13:16:59 2015 +0800
+
+    init project
+
+[33mcommit 14de22fcfedcef7d185b40ffe5eaec3b5c74207a[m
+Author: 330861322 <330861322@qq.com>
+Date:   Fri Aug 7 13:04:06 2015 +0800
+
+    test
+
+[33mcommit f4351f946133af8432226b2f4e1a9badc07a283d[m
+Merge: 7027385 70ce1f2
+Author: zhengzehao <191720653@qq.com>
+Date:   Fri Aug 7 09:42:06 2015 +0800
+
+    Merge branch 'master' of https://github.com/hailor/TestGit
+
+[33mcommit 70273858cc795adb646204c21251133d290187e6[m
+Merge: 59f8aaa 323cb50
+Author: zhengzehao <191720653@qq.com>
+Date:   Fri Aug 7 09:41:57 2015 +0800
+
+    Merge branch 'mclin'
+
+[33mcommit 323cb5088235f0a92f3704a0f0ac45a72f05927a[m
+Author: zhengzehao <191720653@qq.com>
+Date:   Fri Aug 7 09:40:49 2015 +0800
+
+    change test123.txt
+
+[33mcommit 70ce1f2a59fb4a3fa62fd686d6d8031c7017759a[m
+Author: huangzijing <893238192@qq.com>
+Date:   Fri Aug 7 09:11:48 2015 +0800
+
+    add new.txt
+
+[33mcommit b794568375ff2be593c1c99c8d44706ee84fea18[m
+Author: hubert <hubert12138@gmail.com>
+Date:   Fri Aug 7 01:55:48 2015 +0800
+
+    之前误删
+
+[33mcommit 781272e182f6096a30d2fc3b2b08310b803a977d[m
+Author: xiaoyunlong <425116704@qq.com>
+Date:   Thu Aug 6 20:19:57 2015 +0800
+
+    change members.txt info
+
+[33mcommit 483d14b1f17671bf3968bdb3d86c88c736beade9[m
+Author: xiaoyunlong <425116704@qq.com>
+Date:   Thu Aug 6 20:18:11 2015 +0800
+
+    change members.txt info
+
+[33mcommit b1ab72af7fca36dd1271f660fd0bac7e36587db7[m
+Merge: e580c1c b1d5473
+Author: xiaoyunlong <425116704@qq.com>
+Date:   Thu Aug 6 20:12:57 2015 +0800
+
+    Merge branch 'master' of https://github.com/hailor/TestGit
+
+[33mcommit e580c1c71e1ecba5140a2cb1189e01cc9d7c597a[m
+Author: xiaoyunlong <425116704@qq.com>
+Date:   Thu Aug 6 20:11:04 2015 +0800
+
+    change members.txt info
+
+[33mcommit b1d5473514982ce96d87eb1c4ff1f746e38fe8b9[m
+Merge: 5b05f56 59f8aaa
+Author: mclin <457028799@qq.com>
+Date:   Thu Aug 6 18:26:09 2015 +0800
+
+    Merge branch 'master' of https://github.com/hailor/TestGit
+
+[33mcommit 5b05f5699777a40b9eb4d0e53c12cb07303e62f2[m
+Author: mclin <457028799@qq.com>
+Date:   Thu Aug 6 18:23:46 2015 +0800
+
+    change xxxx.txt
+
+[33mcommit 59f8aaac4ee2f1849fef1b33b9319b06bd1d14d5[m
+Merge: 76caa8b 20e2fd3
+Author: zhengzehao <191720653@qq.com>
+Date:   Thu Aug 6 18:23:11 2015 +0800
+
+    Merge branch 'master' of https://github.com/hailor/TestGit
+
+[33mcommit 76caa8be529d3ee7c00f2484ce1800dcd0ebd656[m
+Merge: 77a00d3 4175dfe
+Author: zhengzehao <191720653@qq.com>
+Date:   Thu Aug 6 18:23:02 2015 +0800
+
+    Merge branch 'mclin'
+
+[33mcommit 20e2fd3a4f9577051508e6ccf3300870c323055c[m
+Merge: b6a34f0 c1945a2
+Author: liaoshengmin <498970688@qq.com>
+Date:   Thu Aug 6 18:21:38 2015 +0800
+
+    Merge branch 'master' of https://github.com/hailor/TestGit
+
+[33mcommit b6a34f00839a2c1363c06d81e971019da7077d9b[m
+Merge: 5cf2189 a4df1ec
+Author: liaoshengmin <498970688@qq.com>
+Date:   Thu Aug 6 18:21:08 2015 +0800
+
+    conflct
+
+[33mcommit 4175dfef5be87d1f86c1a684762c9da1495542f3[m
+Author: zhengzehao <191720653@qq.com>
+Date:   Thu Aug 6 18:20:56 2015 +0800
+
+    change 123
