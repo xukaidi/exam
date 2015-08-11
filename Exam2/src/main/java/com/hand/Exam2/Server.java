@@ -56,7 +56,7 @@ public class Server {
 				DataOutputStream out = new DataOutputStream(
 						socket.getOutputStream());
 
-				File f = new File("E:\\xukaidi\\xukaidi.pdf");
+				File f = new File("E:\\xukaidi.pdf");
 				FileInputStream fi = new FileInputStream(f);
 
 				byte[] buffer = new byte[1000];
